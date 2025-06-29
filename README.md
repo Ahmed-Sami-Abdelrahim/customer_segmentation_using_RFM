@@ -1,23 +1,10 @@
-# 🧠 Customer Segmentation using RFM 
+# Customer Segmentation using RFM 
 
 This project applies **Exploratory Data Analysis (EDA)** to segment customers based on their behavior using the RFM model — a widely used marketing technique for understanding customer value.
 
 ---
 
-## 🎯 Project Objective
-
-The main goal is to identify distinct customer groups based on their purchasing behavior, such as:
-
-- Loyal customers
-- At-risk customers
-- High spenders
-- Recently active vs. inactive customers
-
-By using EDA techniques, we extract meaningful insights from transactional data to support targeted marketing strategies.
-
----
-
-## 📊 What is RFM?
+## What is RFM?
 
 RFM stands for:
 
@@ -27,7 +14,7 @@ RFM stands for:
 
 These three metrics are calculated through EDA techniques and used to assign scores for each customer, allowing segmentation based on purchasing patterns.
 
-🧩 Based on these RFM scores, customers are categorized into four key segments:
+Based on these RFM scores, customers are categorized into four key segments:
 
 - 🥇 **Platinum** – Most valuable and active customers  
 - 🥈 **Gold** – High-value customers with regular purchases  
@@ -38,7 +25,7 @@ This segmentation allows businesses to tailor marketing efforts to each group mo
 
 ---
 
-## 🔍 Why EDA?
+## Why EDA?
 
 To derive accurate RFM scores, we performed **Exploratory Data Analysis (EDA)** which includes:
 
@@ -49,7 +36,7 @@ To derive accurate RFM scores, we performed **Exploratory Data Analysis (EDA)** 
 
 ---
 
-## 🧰 Tools and Libraries Used
+## Tools and Libraries Used
 
 - **Python**
 - `pandas` — Data manipulation  
